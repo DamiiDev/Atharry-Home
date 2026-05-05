@@ -325,7 +325,7 @@ export default function AtharryHome() {
               <span style={{ color: "#fff", fontFamily: "'Playfair Display', serif", fontWeight: 800, fontSize: 18 }}>A</span>
             </div>
             <div>
-              <p style={{ margin: 0, fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 18, color: scrolled ? "#1A1208" : "#fff", lineHeight: 1 }}>Atharry</p>
+              <p style={{ margin: 0, fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 18, color: scrolled ? "#1A1208" : "#fff", lineHeight: 1 }}>Atharrys</p>
               <p style={{ margin: 0, fontSize: 10, letterSpacing: "0.22em", color: scrolled ? "#C9A96E" : "rgba(255,255,255,0.7)", textTransform: "uppercase" }}>Home</p>
             </div>
           </div>
@@ -391,7 +391,7 @@ export default function AtharryHome() {
               <em style={{ color: "#C9A96E", fontStyle: "italic" }}>Finds Home</em>
             </h1>
             <p style={{ color: "rgba(253,250,245,0.65)", fontSize: "clamp(16px, 2vw, 20px)", fontWeight: 300, lineHeight: 1.7, marginBottom: 44, maxWidth: 560 }}>
-              Atharry Home curates extraordinary properties across Lagos — crafted for those who refuse to compromise on elegance.
+              s Home curates extraordinary properties across Lagos — crafted for those who refuse to compromise on elegance.
             </p>
             <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
               <a href="#properties" style={{
@@ -522,7 +522,7 @@ export default function AtharryHome() {
             <div style={{ position: "relative" }}>
               <img
                 src="https://images.unsplash.com/photo-1560185009-dddecae67ce0?w=800&q=80"
-                alt="Atharry team"
+                alt="s team"
                 style={{ width: "100%", borderRadius: 16, objectFit: "cover", height: 520 }}
               />
               <div style={{
@@ -542,7 +542,7 @@ export default function AtharryHome() {
               Built on Trust,<br />Driven by Elegance
             </h2>
             <p style={{ color: "rgba(253,250,245,0.6)", fontSize: 16, lineHeight: 1.8, marginBottom: 20 }}>
-              Founded in 2006, Atharry Home has grown into Lagos's most trusted name in luxury real estate. We don't just sell properties — we help discerning clients find sanctuaries that reflect their ambition and lifestyle.
+              Founded in 2006, s Home has grown into Lagos's most trusted name in luxury real estate. We don't just sell properties — we help discerning clients find sanctuaries that reflect their ambition and lifestyle.
             </p>
             <p style={{ color: "rgba(253,250,245,0.6)", fontSize: 16, lineHeight: 1.8, marginBottom: 36 }}>
               Our team of 40+ certified professionals brings unmatched market knowledge, negotiation mastery, and a deeply personal approach to every transaction.
@@ -713,7 +713,7 @@ export default function AtharryHome() {
               {[
                 { icon: "📍", label: "Head Office", val: "5 Admiralty Way, Lekki Phase 1, Lagos" },
                 { icon: "📞", label: "Phone", val: "+234 800 000 0000" },
-                { icon: "✉️", label: "Email", val: "hello@atharryhome.com" },
+                { icon: "✉️", label: "Email", val: "hello@shome.com" },
                 { icon: "🕐", label: "Hours", val: "Mon–Fri: 8am – 6pm | Sat: 9am – 4pm" },
               ].map((c) => (
                 <div key={c.label} style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
@@ -821,7 +821,7 @@ export default function AtharryHome() {
                   <span style={{ color: "#fff", fontFamily: "'Playfair Display', serif", fontWeight: 800, fontSize: 17 }}>A</span>
                 </div>
                 <div>
-                  <p style={{ margin: 0, fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 17, color: "#FDFAF5", lineHeight: 1 }}>Atharry Home</p>
+                  <p style={{ margin: 0, fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 17, color: "#FDFAF5", lineHeight: 1 }}>s Home</p>
                   <p style={{ margin: 0, fontSize: 9, letterSpacing: "0.2em", color: "#C9A96E", textTransform: "uppercase" }}>Premium Real Estate</p>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function AtharryHome() {
             {[
               { heading: "Company", links: ["About Us", "Our Team", "Careers", "Press"] },
               { heading: "Services", links: ["Buy a Property", "Sell a Property", "Property Management", "Investment Advisory"] },
-              { heading: "Contact", links: ["Lagos Office", "+234 800 000 0000", "hello@atharryhome.com", "Mon–Sat 8am–6pm"] },
+              { heading: "Contact", links: ["Lagos Office", "+234 800 000 0000", "hello@shome.com", "Mon–Sat 8am–6pm"] },
             ].map((col) => (
               <div key={col.heading}>
                 <p style={{ color: "#C9A96E", fontWeight: 600, fontSize: 12, letterSpacing: "0.12em", textTransform: "uppercase", margin: "0 0 16px" }}>{col.heading}</p>
@@ -845,7 +845,7 @@ export default function AtharryHome() {
             ))}
           </div>
           <div style={{ borderTop: "1px solid rgba(201,169,110,0.15)", paddingTop: 28, display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 12 }}>
-            <p style={{ color: "rgba(253,250,245,0.35)", fontSize: 13, margin: 0 }}>© 2026 Atharry Home. All rights reserved.</p>
+            <p style={{ color: "rgba(253,250,245,0.35)", fontSize: 13, margin: 0 }}>© 2026 s Home. All rights reserved.</p>
             <div style={{ display: "flex", gap: 20 }}>
               {["Privacy Policy", "Terms of Service", "Cookie Policy"].map((l) => (
                 <a key={l} href="#" style={{ color: "rgba(253,250,245,0.35)", fontSize: 13, textDecoration: "none" }}>{l}</a>
